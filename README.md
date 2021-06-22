@@ -1,5 +1,7 @@
 # Code of Conduct
 
+> Acknowledgements: This was adapted from [Hack Club](https://hackclub.com)'s Code of Conduct which was adapted from [Go's Code of Conduct](https://github.com/golang/go/commit/aa487e66f869785837275ee20441a53888a51bb2). It is to be noted that many parts of Go's Code of Conduct are adopted from the Code of Conduct documents of the Django, FreeBSD, and Rust projects.
+
 ## TL;DR
 
 - Treat everyone with respect and kindness.
@@ -65,12 +67,8 @@ If you have any questions or concerns about our decision, please reach out to us
 
 ## Reporting Issues
 
-If you encounter a conduct-related issue, you should report it to the Working Group by contacting us directly at <contact@innovationcircuit.co> or approaching us at an event.
+If you encounter a conduct-related issue, you should report by contacting us directly at <contact@innovationcircuit.co> or approaching us at an event.
 
 **Note that the goal of the Code of Conduct is to resolve conflicts in the most harmonious way possible.** We hope that in most cases issues may be resolved through polite discussion and mutual agreement. Forceful measures are to be employed only as a last resort.
 
-Changes to the Code of Conduct should be proposed by [creating an issue](https://github.com/the-innovation-circuit/issues/new) or making a pull request to this document.
-
-## Acknowledgments
-
-This was adapted from Hack Club's Code of Conduct which was adapted from [Go's Code of Conduct](https://github.com/golang/go/commit/aa487e66f869785837275ee20441a53888a51bb2). It is to be noted that many parts of Go's Code of Conduct are adopted from the Code of Conduct documents of the Django, FreeBSD, and Rust projects.
+Changes to the Code of Conduct should be proposed by [creating an issue](https://github.com/the-innovation-circuit/conduct/issues/new) or making a pull request to this document.
