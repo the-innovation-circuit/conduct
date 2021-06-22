@@ -51,13 +51,10 @@ People are complicated. You should expect to be misunderstood and to misundersta
 
 These actions are explicitly forbidden in Hack Club spaces:
 
-- Expressing or provoking:
-  - insulting, demeaning, hateful, or threatening remarks;
-  - discrimination based on age, nationality, race, (dis)ability, gender (identity or expression), sexuality, religion, or similar personal characteristic;
-  - bullying or systematic harassment;
-  - unwelcome sexual advances, including sexually explicit content.
-- Advertisement for events, companies, organizations, etc - unless specifically given permission by Hack Club HQ.
-- Posting spam-like content that disrupts the environment of the community.
+- insulting, demeaning, hateful, or threatening remarks;
+- discrimination based on age, nationality, race, (dis)ability, gender (identity or expression), sexuality, religion, or similar personal characteristic;
+- bullying or systematic harassment;
+- unwelcome sexual advances, including sexually explicit content.
 
 ## Moderation & Enforcement
 
