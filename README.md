@@ -49,7 +49,7 @@ People are complicated. You should expect to be misunderstood and to misundersta
 
 ## Unwelcome behavior
 
-These actions are explicitly forbidden in Hack Club spaces:
+These actions are explicitly forbidden:
 
 - insulting, demeaning, hateful, or threatening remarks;
 - discrimination based on age, nationality, race, (dis)ability, gender (identity or expression), sexuality, religion, or similar personal characteristic;
