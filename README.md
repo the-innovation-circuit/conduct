@@ -23,7 +23,7 @@ The third goal of the Code of Conduct is to make our events welcoming to people 
 
 Explicit enforcement of the Code of Conduct applies to all official Innovation Circuit events and online spaces (such as GitHub).
 
-## Hacker Values
+## Values
 
 These are the values to which students should aspire.
 
